@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Frage>
+    <Nummer>1</Nummer>
+    <Fragetext>Fanget mer ganz eifach ah :) Wie heissisch?</Fragetext>
+    <Antwort>Daniela</Antwort>
+    <URL>Ende.jpg</URL>
+  </Frage>
+  <Frage>
+    <Nummer>2</Nummer>
+    <Fragetext>Und wo wohnsch?</Fragetext>
+    <Antwort>Naefels</Antwort>
+   <URL>pferdeF.jpg</URL>
+  </Frage>
+  <Frage>
+    <Nummer>3</Nummer>
+    <Fragetext>Es wirds langsam chli schwieriger..Miauz?</Fragetext>
+    <Antwort>Roan</Antwort>
+    <URL>volvic.jpg</URL>
+  </Frage>
+  <Frage>
+    <Nummer>4</Nummer>
+    <Fragetext>Wo chönt das sii?</Fragetext>
+    <Antwort>Frankreich</Antwort>
+    <URL>pferdeF.jpg</URL>
+  </Frage>
+  <Frage>
+    <Nummer>5</Nummer>
+    <Fragetext>Wo chönt das sii?</Fragetext>
+    <Antwort>Frankreich</Antwort>
+    <URL>pferdeF.jpg</URL>
+  </Frage>
+  <Frage>
+    <Nummer>6</Nummer>
+    <Fragetext>Wo chönt das sii?</Fragetext>
+    <Antwort>Frankreich</Antwort>
+    <URL>pferdeF.jpg</URL>
+  </Frage>
+  <Frage>
+    <Nummer>6</Nummer>
+    <Fragetext>Wo chönt das sii?</Fragetext>
+    <Antwort>Frankreich</Antwort>
+    <URL>pferdeF.jpg</URL>
+  </Frage>
+</root>
